@@ -1,7 +1,7 @@
 # XmasTreeSoundToLight
 Arduino code for (and details of the kit for) a 3D Xmas Tree Sound To Light project
 
-A sound-to-light Xma Tree? Well, why not, the festive season is almost upon us and it's great to see this tree flashing along to the music (or TV, or just you talking). And when there's silence it just gently fades in and out the 3 different colour LEDs.
+A sound-to-light Xmas Tree? Well, why not, the festive season is almost upon us and it's great to see this tree flashing along to the music (or TV, or just you talking). And when there's silence it just gently fades in and out the 3 different colour LEDs.
 
 This is a good example of how to take a decent enough kit but then add value with an Arduino. Not only that but you're exposed to some *analogue discrete components* as you build the *two-transistor, ultra-simple microphone preamplifier*. It's so easy and very satisfying to get it all working.
 
